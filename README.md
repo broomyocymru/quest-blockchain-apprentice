@@ -6,7 +6,7 @@
  - Distributed Transactions
  - Smart Contracts
  - [Golang](https://golang.org/)
- - JS (worth knowing/learning)
+ - [JavaScript (Quest link)](https://github.com/jigna-shah/quest-fullstack-dev-JS-apprentice)
    - [Vanilla JS (ES6)](http://es6-features.org/)
    - [Node.js](https://nodejs.org/en/)
  - Cryptography 
