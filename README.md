@@ -23,6 +23,7 @@
 ### Hyperledger Fabric
  - [Hyperledger Docs](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
  - [Blockchain Basics (IBM)](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/index.html)
+ - [Hyperledger Composer](https://hyperledger.github.io/composer/)
 ### Ethereum
  - [Getting Started as an Ethereum Web Developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
  - [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
