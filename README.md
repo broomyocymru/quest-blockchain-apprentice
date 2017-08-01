@@ -19,7 +19,7 @@
 ### Bitcoin
  - [Non-technical intro to Bitcoin](https://www.youtube.com/watch?v=l9jOJk30eQs)
  - [Bitcoin under the hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=233s)
- - [original Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
+ - [Original Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
 ### Hyperledger Fabric
  - [Hyperledger Docs](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
  - [Blockchain Basics (IBM)](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/index.html)
