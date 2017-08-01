@@ -1,12 +1,14 @@
 # QUEST - Blockchain apprentice
 
 ## Topics
- - Docker
+ - [Docker](https://www.docker.com/)
  - Hashing 
  - Distributed Transactions
  - Smart Contracts
- - Golang
+ - [Golang](https://golang.org/)
  - JS (worth knowing/learning)
+   - [Vanilla JS (ES6)](http://es6-features.org/)
+   - [Node.js](https://nodejs.org/en/)
  - Cryptography 
 
  
